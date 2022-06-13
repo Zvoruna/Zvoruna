@@ -1,8 +1,12 @@
-# Profile
+# Welcome
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
 
-
+- 🔭 I’m currently working on college projects, homeworks...
+- 🌱 I’m currently a student in Information Systems...
+- 🤔 I’m looking for help with time
+- 📫 How to reach me: Not avaliable.
+- 😄 Pronouns: she/her
 
 <!--
 **Zvoruna/Zvoruna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
