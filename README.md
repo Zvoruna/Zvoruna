@@ -6,7 +6,7 @@
 - 🌱 I’m currently a student in Information Systems...
 - 🤔 I’m looking for help with time
 - 📫 How to reach me: Not avaliable.
-- 😄 Pronouns: she/her
+
 
 <!--
 **Zvoruna/Zvoruna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
